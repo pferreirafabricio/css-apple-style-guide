@@ -1,2 +1,15 @@
 @import './colors.css';
 @import './fonts.css';
+
+/* This styles are not part of the style guide */
+button {
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 4px;
+}
+
+hr {
+    border:  1px solid var(--vibrant-dark-gray);
+}

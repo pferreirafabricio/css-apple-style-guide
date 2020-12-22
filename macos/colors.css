@@ -55,3 +55,180 @@
     --vibrant-dark-yellow: rgb(255, 225, 20);
 }
 
+.bg-blue {
+    background-color: var(--blue);
+}
+
+.bg-dark-blue {
+    background-color: var(--dark-blue);
+}
+
+.bg-vibrant-blue {
+    background-color: var(--vibrant-blue);
+}
+
+.bg-vibrant-dark-blue {
+    background-color: var(--vibrant-dark-blue);
+}
+
+.bg-brown {
+    background-color: var(--brown);
+}
+
+.bg-dark-brown {
+    background-color: var(--dark-brown);
+}
+
+.bg-vibrant-brown {
+    background-color: var(--vibrant-brown);
+}
+
+.bg-vibrant-dark-brown {
+    background-color: var(--vibrant-dark-brown);
+}
+
+.bg-gray {
+    background-color: var(--gray);
+}
+
+.bg-dark-gray {
+    background-color: var(--dark-gray);
+}
+
+.bg-vibrant-gray {
+    background-color: var(--vibrant-gray);
+}
+
+.bg-vibrant-dark-gray {
+    background-color: var(--vibrant-dark-gray);
+}
+
+.bg-green {
+    background-color: var(--green);
+}
+
+.bg-dark-green {
+    background-color: var(--dark-green);
+}
+
+.bg-vibrant-green {
+    background-color: var(--vibrant-green);
+}
+
+.bg-vibrant-dark-green {
+    background-color: var(--vibrant-dark-green);
+}
+
+.bg-indigo {
+    background-color: var(--indigo);
+}
+
+.bg-dark-indigo {
+    background-color: var(--dark-indigo);
+}
+
+.bg-vibrant-indigo {
+    background-color: var(--vibrant-indigo);
+}
+
+.bg-vibrant-dark-indigo {
+    background-color: var(--vibrant-dark-indigo);
+}
+
+.bg-orange {
+    background-color: var(--orange);
+}
+
+.bg-dark-orange {
+    background-color: var(--dark-orange);
+}
+
+.bg-vibrant-orange {
+    background-color: var(--vibrant-orange);
+}
+
+.bg-vibrant-dark-orange {
+    background-color: var(--vibrant-dark-orange);
+}
+
+.bg-pink {
+    background-color: var(--pink);
+}
+
+.bg-dark-pink {
+    background-color: var(--dark-pink);
+}
+
+.bg-vibrant-pink {
+    background-color: var(--vibrant-pink);
+}
+
+.bg-vibrant-dark-pink {
+    background-color: var(--vibrant-dark-pink);
+}
+
+.bg-purple {
+    background-color: var(--purple);
+}
+
+.bg-dark-purple {
+    background-color: var(--dark-purple);
+}
+
+.bg-vibrant-purple {
+    background-color: var(--vibrant-purple);
+}
+
+.bg-vibrant-dark-purple {
+    background-color: var(--vibrant-dark-purple);
+}
+
+.bg-red {
+    background-color: var(--red);
+}
+
+.bg-dark-red {
+    background-color: var(--dark-red);
+}
+
+.bg-vibrant-red {
+    background-color: var(--vibrant-red);
+}
+
+.bg-vibrant-dark-red {
+    background-color: var(--vibrant-dark-red);
+}
+
+.bg-teal {
+    background-color: var(--teal);
+}
+
+.bg-dark-teal {
+    background-color: var(--dark-teal);
+}
+
+.bg-vibrant-teal {
+    background-color: var(--vibrant-teal);
+}
+
+.bg-vibrant-dark-teal {
+    background-color: var(--vibrant-dark-teal);
+}
+
+.bg-yellow {
+    background-color: var(--yellow);
+}
+
+.bg-dark-yellow {
+    background-color: var(--dark-yellow);
+}
+
+.bg-vibrant-yellow {
+    background-color: var(--vibrant-yellow);
+}
+
+.bg-vibrant-dark-yellow {
+    background-color: var(--vibrant-dark-yellow);
+}
+
+
