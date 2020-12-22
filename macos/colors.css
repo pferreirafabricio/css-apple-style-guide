@@ -1,0 +1,57 @@
+:root {
+    --blue: rgb(0, 122, 255);
+    --dark-blue: rgb(0, 132, 255);
+    --vibrant-blue: rgb(0, 122, 245);
+    --vibrant-dark-blue: rgb(20, 142, 255);
+
+    --brown: rgb(162, 132, 94);
+    --dark-brown: rgb(172, 142, 104);
+    --vibrant-brown: rgb(155, 122, 84);
+    --vibrant-dark-brown: rgb(182, 152, 114);
+
+    --gray: rgb(142, 142, 147);
+    --dark-gray: rgb(152, 152, 157);
+    --vibrant-gray: rgb(132, 132, 137);
+    --vibrant-dark-gray: rgb(162, 162, 167);
+
+    --green: rgb(40, 205, 65);
+    --dark-green: rgb(50, 215, 75);
+    --vibrant-green: rgb(30, 195, 55);
+    --vibrant-dark-green: rgb(60, 255, 85);
+
+    --indigo: rgb(88, 86, 214);
+    --dark-indigo: rgb(94, 92, 230);
+    --vibrant-indigo: rgb(84, 82, 204);
+    --vibrant-dark-indigo: rgb(99, 97, 242);
+
+    --orange: rgb(255, 149, 0);
+    --dark-orange: rgb(255, 159, 10);
+    --vibrant-orange: rgb(245, 139, 0);
+    --vibrant-dark-orange: rgb(255, 169, 20);
+
+    --pink: rgb(255, 45, 85);
+    --dark-pink: rgb(255, 55, 95);
+    --vibrant-pink: rgb(245, 35, 75);
+    --vibrant-dark-pink: rgb(255, 65, 105);
+
+    --purple: rgb(175, 82, 222);
+    --dark-purple: rgb(191, 90, 242);
+    --vibrant-purple: rgb(159, 75, 201);
+    --vibrant-dark-purple: rgb(204, 101, 255);
+
+    --red: rgb(255, 59, 48);
+    --dark-red: rgb(255, 69, 58);
+    --vibrant-red: rgb(245, 49, 38);
+    --vibrant-dark-red: rgb(255, 79, 68);
+
+    --teal: rgb(90, 200, 250);
+    --dark-teal: rgb(100, 210, 255);
+    --vibrant-teal: rgb(80, 190, 240);
+    --vibrant-dark-teal: rgb(110, 220, 255);
+
+    --yellow: rgb(255, 204, 0);
+    --dark-yellow: rgb(255, 214, 10);
+    --vibrant-yellow: rgb(245, 194, 0);
+    --vibrant-dark-yellow: rgb(255, 225, 20);
+}
+
