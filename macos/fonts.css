@@ -1,0 +1,126 @@
+/* Font Family */
+@font-face {
+    font-family: 'SF-Pro';
+    src: url("../fonts/SF-Pro-Display-Light.otf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'SF-Pro';
+    src: url("../fonts/SF-Pro-Display-Regular.otf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'SF-Pro';
+    src: url("../fonts/SF-Pro-Display-Medium.otf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'SF-Pro';
+    src: url("../fonts/SF-Pro-Display-Semibold.otf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'SF-Pro';
+    src: url("../fonts/SF-Pro-Display-Bold.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'SF-Pro';
+    src: url("../fonts/SF-Pro-Display-Heavy.otf");
+    font-weight: 900;
+}
+
+/* Emphasized weight */
+.font-weight-medium {
+    font-weight: 500;
+}
+
+.font-weight-semi-bold {
+    font-weight: 600;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+.font-weight-heavy {
+    font-weight: 900;
+}
+
+/* Text style */
+
+body {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 22px;
+    font-family: 'SF-Pro', sans-serif;
+}
+
+h1 {
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 35px;
+}
+
+h2 {
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 29px;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 20pt;
+}
+
+.large-title {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+.headline {
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.sub-headline {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 19px;
+}
+
+
+.callout {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+}
+
+.footnote {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.caption-1 {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.caption-2 {
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+
+
